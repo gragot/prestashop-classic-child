@@ -1,0 +1,9 @@
+parent: classic
+name: classic_by_gragot
+display_name: Modificaciones del tema classic de prestashop 1.7
+version: 1.0.0
+author:
+  name: "Gragot"
+  url: "https://gragot.com"
+assets:
+  use_parent_assets: true
