@@ -1,3 +1,7 @@
 #footer {
     padding-top: 0rem;
 }
+
+.footer-container {
+    box-shadow: none;
+}
